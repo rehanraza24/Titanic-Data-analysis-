@@ -1,4 +1,4 @@
-The notebook performs exploratory data analysis on the titanic data set.
+# The notebook performs exploratory data analysis on the titanic data set.
 
 Multiple packages were used in the notenook. These packages were imported into python 2.7.3. The packages used are:
 
